@@ -1,0 +1,1 @@
+<h1 class="font-bold text-center text-4xl pb-6 pt-4 bg-slate-400">{{$slot}}</h1>
